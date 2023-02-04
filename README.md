@@ -40,7 +40,7 @@ The mobile app for PulseChat is built with React Native, a framework for buildin
 1. Clone the repository
 
 ```bash
-$ git clone https://github.com/<username>/pulse-chat.git
+$ git clone https://github.com/RajNykDhulapkar/PulseChat.git
 ```
 
 2. Install dependencies for the backend
